@@ -1,0 +1,6 @@
+{
+  "name": "Transporter Rent a Car",
+  "description": "Premium and affordable car rental service in Rawalpindi with professional drivers and simple booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
